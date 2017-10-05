@@ -1,0 +1,7 @@
+Due Wednesday of Week 5, website containing:
+- Description of game
+- Features of game
+- Screen mockups
+- Project plan/milestones/schedule
+    Intermediate deliverable in Week 8
+    Final demo in Week 11
